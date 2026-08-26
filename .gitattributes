@@ -1,0 +1,9 @@
+# Default behavior
+# This file is used to override language statistics
+*.min.js linguist-generated
+public/*.html linguist-vendored
+*.tsx linguist-detectable
+*.jpeg binary
+yarn.lock linguist-generated
+
+* text=auto eol=lf
